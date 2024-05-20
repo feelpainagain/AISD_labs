@@ -174,7 +174,7 @@ bool Set::Insert(int key) {
 	if (root == nullptr)
 	{
 		 return false;
-	}|
+	}
 	return true;
 }
 
